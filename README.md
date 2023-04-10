@@ -1,4 +1,4 @@
-# EC4SRec (Updating)
+# Zero-Shot Next-Item Recommendation (Updating)
 Code for the Paper "Zero-Shot Next-Item Recommendation using Large Pretrained Language Models"
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AGI-Edgerunners/LLM-Next-Item-Rec)
