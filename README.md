@@ -11,7 +11,7 @@ Code for the Paper "Zero-Shot Next-Item Recommendation using Large Pretrained La
 
 Command for Zero-Shot NIR on ml-100k 
 ~~~
-
+python three_stage_0_NIR.py
 ~~~
 
 

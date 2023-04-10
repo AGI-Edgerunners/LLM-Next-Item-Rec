@@ -12,7 +12,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--length_limit', type=int, default=8, help='')
 parser.add_argument('--num_cand', type=int, default=19, help='')
 parser.add_argument('--random_seed', type=int, default=2023, help='')
-parser.add_argument('--api_key', type=str, default="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", help="")
+parser.add_argument('--api_key', type=str, default="sk-", help="")
 
 args = parser.parse_args()
 
