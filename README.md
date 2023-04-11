@@ -18,12 +18,10 @@ python three_stage_0_NIR.py
 ## Citations
 
 ```bibtex
-@misc{wang2023zeroshot,
-      title={Zero-Shot Next-Item Recommendation using Large Pretrained Language Models}, 
-      author={Lei Wang and Ee-Peng Lim},
-      year={2023},
-      eprint={2304.03153},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
+@article{wang2023zero,
+  title={Zero-Shot Next-Item Recommendation using Large Pretrained Language Models},
+  author={Wang, Lei and Lim, Ee-Peng},
+  journal={arXiv preprint arXiv:2304.03153},
+  year={2023}
 }
 ```
