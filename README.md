@@ -5,7 +5,7 @@ Code for the Paper "Zero-Shot Next-Item Recommendation using Large Pretrained La
 
 ## To Do
 
-his week, we will post the results of our Few-shot and Zero-shot LLM-based Next-Item Recommendation models on two datasets: MovieLens 100K and LastFM 20K.
+This week, we will post the results of our Few-shot and Zero-shot LLM-based Next-Item Recommendation models on two datasets: MovieLens 100K and LastFM 20K.
 
 ## News
 
