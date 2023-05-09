@@ -14,6 +14,9 @@ Command for Zero-Shot NIR on ml-100k
 python three_stage_0_NIR.py
 ~~~
 
+## :star: Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Next-Item-Rec&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Next-Item-Rec&Date)
 
 ## Citations
 
